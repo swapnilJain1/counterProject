@@ -1,2 +1,2 @@
-# counterProject
-Created with CodeSandbox
+# Counter Project
+
